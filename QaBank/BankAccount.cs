@@ -15,14 +15,14 @@ public abstract class BankAccount
         Balance += amount;
     }
 
-    internal static bool Withdraw(decimal balance, decimal amount)
+    internal static decimal Withdraw(decimal balance, decimal amount)
     {
         if (balance < amount)
-            return false;
+            return balance;
 
         balance -= amount;
 
-        return true;
+        return balance;
     }
 }
 
@@ -30,7 +30,12 @@ public class CurrentAccount : BankAccount
 {
     public decimal OverdraftLimit { get; set; } = 100M;
 
-    public bool Withdraw(decimal amount) => Withdraw(Balance + OverdraftLimit, amount);
+    public void Withdraw(decimal amount)
+    {
+        var newBalance = Withdraw(Balance + OverdraftLimit, amount);
+
+        Balance = newBalance;
+    }
 }
 
 public class SavingsAccount : BankAccount
