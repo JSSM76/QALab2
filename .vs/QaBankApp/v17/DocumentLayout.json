@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\liam.hinds\\source\\repos\\QALab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C60503A8-CD32-4149-AF74-3B5B32BD1697}|QaBank\\QaBank.csproj|c:\\users\\liam.hinds\\source\\repos\\qalab2\\qabank\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C60503A8-CD32-4149-AF74-3B5B32BD1697}|QaBank\\QaBank.csproj|solutionrelative:qabank\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C60503A8-CD32-4149-AF74-3B5B32BD1697}|QaBank\\QaBank.csproj|c:\\users\\liam.hinds\\source\\repos\\qalab2\\qabank\\qabank.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C60503A8-CD32-4149-AF74-3B5B32BD1697}|QaBank\\QaBank.csproj|solutionrelative:qabank\\qabank.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C60503A8-CD32-4149-AF74-3B5B32BD1697}|QaBank\\QaBank.csproj|c:\\users\\liam.hinds\\source\\repos\\qalab2\\qabank\\accounts\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60503A8-CD32-4149-AF74-3B5B32BD1697}|QaBank\\QaBank.csproj|solutionrelative:qabank\\accounts\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,26 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BankAccount.cs",
-              "DocumentMoniker": "C:\\Users\\liam.hinds\\source\\repos\\QALab2\\QaBank\\BankAccount.cs",
-              "RelativeDocumentMoniker": "QaBank\\BankAccount.cs",
-              "ToolTip": "C:\\Users\\liam.hinds\\source\\repos\\QALab2\\QaBank\\BankAccount.cs",
-              "RelativeToolTip": "QaBank\\BankAccount.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAwwCAAAAAQAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\liam.hinds\\source\\repos\\QALab2\\QaBank\\Accounts\\BankAccount.cs",
+              "RelativeDocumentMoniker": "QaBank\\Accounts\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\liam.hinds\\source\\repos\\QALab2\\QaBank\\Accounts\\BankAccount.cs",
+              "RelativeToolTip": "QaBank\\Accounts\\BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T10:56:03.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "QaBank",
-              "DocumentMoniker": "C:\\Users\\liam.hinds\\source\\repos\\QALab2\\QaBank\\QaBank.csproj",
-              "RelativeDocumentMoniker": "QaBank\\QaBank.csproj",
-              "ToolTip": "C:\\Users\\liam.hinds\\source\\repos\\QALab2\\QaBank\\QaBank.csproj",
-              "RelativeToolTip": "QaBank\\QaBank.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-12T10:55:59.568Z",
+              "WhenOpened": "2025-05-12T11:12:00.595Z",
               "EditorCaption": ""
             }
           ]
